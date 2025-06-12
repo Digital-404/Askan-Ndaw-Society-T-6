@@ -284,9 +284,6 @@ html {
   .The_Image img {
     transform: translate(0%, 0.5%);
   }
-  .the_mail {
-    right: 20%;
-  }
   .the_mail:hover {
     transform: scale(1.1);
     cursor: pointer;
